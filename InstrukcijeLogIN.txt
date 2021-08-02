@@ -1,0 +1,3 @@
+prva kolona - username
+druga kolona - naziv kompanije za koju rade
+treca kolona - sifre pri cemu su one hesovi rednih brojeva od 1 do 12. npr za prvog korisnika sifra je 1
